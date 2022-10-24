@@ -7,3 +7,10 @@ Você terá 3 variáveis. Sendo elas:
 3 - Distância em KM da viagem;
 
 Imprima no console o valor que será gasto de combustível para realizar essa viagem.
+
+PreçoCombustivel = 5,59l
+ValorMedio = 14km/l
+DistanciaKm = 20km
+ValorGasto = ValorMedio / DistanciaKm * PreçoCombustivel
+
+Valor gasto será de (ValorMedio / DistanciaKm )
